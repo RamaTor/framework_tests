@@ -1,8 +1,8 @@
 {
      "fields": {
         "project": {
-            "id": "10003",
-            "key": "P2J"
+            "id": "10002",
+            "key": "PDE2"
         },
         "summary": "Pruebaderegresion",
         "issuetype": {
@@ -11,6 +11,6 @@
     },
 
     "xrayFields": {
-        "testPlanKey": "P2J-1"
+        "testPlanKey": "PDE2-1"
     }
 }
